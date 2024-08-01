@@ -21,7 +21,7 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import confusion_matrix, accuracy_score
 
 # API Key for accessing YouTube Data API
-API_KEY ='AIzaSyD5fQTsGx-xIcvXmeaSbUSj3S3-L7R2iBg'
+API_KEY ='ENTER_YOUR_OWN_API_KEY_AND_DO_NOT_SHARE_IT_WITH_ANYONE'
 
 # Initializing YouTube API
 youtube = build('youtube', 'v3', developerKey=API_KEY)
